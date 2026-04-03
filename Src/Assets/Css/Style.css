@@ -1,0 +1,38 @@
+ body header nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;    
+    gap: 20px;              
+    padding: 0;
+    font-size: 20px;
+    font-family: Bold italic;
+ 
+}
+
+body header nav ul li {
+    cursor: pointer;
+    
+}
+
+h1 {
+    color: #6b2c34;
+}
+
+h2 {
+    color: #6b2c34;
+}
+
+.traco-decorativo {
+    width: 1870px;         
+    height: 4px;          
+    background-color: #82454d;
+    margin: 10px auto;    
+    border-radius: 2px;
+    background-color: #72353d;
+}
+
+#titulos {
+    color: #72353d;
+
+}
+
